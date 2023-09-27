@@ -1,2 +1,4 @@
-.Project
-.classpack
+project
+.classpath
+/bin
+/target
